@@ -4,6 +4,7 @@
   "ipfsIsStarting": "IPFS is Starting",
   "ipfsIsNotRunning": "IPFS is Not Running",
   "ipfsHasErrored": "IPFS has Errored",
+  "peerCount": "{peerCount, plural, one {1 peer} other {{peerCount} peers}}",
   "runningWithGC": "Running (GC in progress)",
   "runningWhileCheckingForUpdate": "Running (Checking for Updates)",
   "start": "Start",
